@@ -1,0 +1,705 @@
+Simulator Results
+Date:, Tue Feb 16 22:42:26 CET 2021
+
+Simulator Configuration
+Simulation Type:,Terminating
+Project Name:,VCtest
+Study Name:,study
+Random Number Generator:,Lagged Fibonacci
+Random Number Seed:,31415
+Maximum Batches:,100000
+Minimum Batches:,1000
+Data Reporting Frequency:,1000
+Display Update Frequency:,1000
+BuildType:,Optimize
+Execution Architecture:,64-bit
+Runname:,Results
+Output File:,Results_output.txt
+Results File:,Results_results
+Jackknife Variance:,On
+Processors Per Experiment:,1
+Maximize Processor Usage:,false
+Processors Selected for Simulation:
+LAPTOP-RDGR22SH,amd64
+
+Experiment 1
+Experiment 1,Start Time:,Tue Feb 16 22:15:11 CET 2021
+Experiment 1,Finish Time:,Tue Feb 16 22:15:20 CET 2021
+Experiment 1,Elapsed Running Time:,8.777
+Experiment 1,Total CPU Time:,7.767
+Experiment 1,Batches Completed:,1000
+Experiment 1,Experiment Name:,Experiment 1
+Experiment 1,Global Variable Settings:
+Experiment 1,short,FSDelay,8
+Experiment 1,double,fs2fsvcRateH,0.05
+Experiment 1,double,fs2psRateH,0.01
+Experiment 1,double,fsvc2fsRateH,0.01
+Experiment 1,short,numOfTrains,20
+Experiment 1,double,repairRateH,0.2
+Experiment 1,short,trainLength,2
+Experiment 1, Results
+Experiment 1,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 1,Mean,trains,3600.0,3600.0,1,4629800000E02 ,+/-,3,6893128798E-01
+Experiment 1,Mean,trains,7200.0,7200.0,2,9428900000E02 ,+/-,1,0004797625E00 
+
+Experiment 2
+Experiment 2,Start Time:,Tue Feb 16 22:15:20 CET 2021
+Experiment 2,Finish Time:,Tue Feb 16 22:15:35 CET 2021
+Experiment 2,Elapsed Running Time:,14.995
+Experiment 2,Total CPU Time:,14.507
+Experiment 2,Batches Completed:,2000
+Experiment 2,Experiment Name:,Experiment 2
+Experiment 2,Global Variable Settings:
+Experiment 2,short,FSDelay,8
+Experiment 2,double,fs2fsvcRateH,0.05
+Experiment 2,double,fs2psRateH,0.01
+Experiment 2,double,fsvc2fsRateH,0.04
+Experiment 2,short,numOfTrains,20
+Experiment 2,double,repairRateH,0.2
+Experiment 2,short,trainLength,2
+Experiment 2, Results
+Experiment 2,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 2,Mean,trains,3600.0,3600.0,1,4511200000E02 ,+/-,4,0993811303E-01
+Experiment 2,Mean,trains,7200.0,7200.0,2,8979050000E02 ,+/-,1,1249768691E00 
+
+Experiment 3
+Experiment 3,Start Time:,Tue Feb 16 22:15:35 CET 2021
+Experiment 3,Finish Time:,Tue Feb 16 22:15:49 CET 2021
+Experiment 3,Elapsed Running Time:,14.822
+Experiment 3,Total CPU Time:,14.262
+Experiment 3,Batches Completed:,2000
+Experiment 3,Experiment Name:,Experiment 3
+Experiment 3,Global Variable Settings:
+Experiment 3,short,FSDelay,8
+Experiment 3,double,fs2fsvcRateH,0.05
+Experiment 3,double,fs2psRateH,0.01
+Experiment 3,double,fsvc2fsRateH,0.07
+Experiment 3,short,numOfTrains,20
+Experiment 3,double,repairRateH,0.2
+Experiment 3,short,trainLength,2
+Experiment 3, Results
+Experiment 3,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 3,Mean,trains,3600.0,3600.0,1,4423050000E02 ,+/-,5,0013900921E-01
+Experiment 3,Mean,trains,7200.0,7200.0,2,8660950000E02 ,+/-,1,3372677358E00 
+
+Experiment 4
+Experiment 4,Start Time:,Tue Feb 16 22:15:49 CET 2021
+Experiment 4,Finish Time:,Tue Feb 16 22:16:12 CET 2021
+Experiment 4,Elapsed Running Time:,22.427
+Experiment 4,Total CPU Time:,21.434
+Experiment 4,Batches Completed:,3000
+Experiment 4,Experiment Name:,Experiment 4
+Experiment 4,Global Variable Settings:
+Experiment 4,short,FSDelay,8
+Experiment 4,double,fs2fsvcRateH,0.05
+Experiment 4,double,fs2psRateH,0.01
+Experiment 4,double,fsvc2fsRateH,0.1
+Experiment 4,short,numOfTrains,20
+Experiment 4,double,repairRateH,0.2
+Experiment 4,short,trainLength,2
+Experiment 4, Results
+Experiment 4,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 4,Mean,trains,3600.0,3600.0,1,4283966667E02 ,+/-,4,9551257787E-01
+Experiment 4,Mean,trains,7200.0,7200.0,2,8150700000E02 ,+/-,1,2959520740E00 
+
+Experiment 5
+Experiment 5,Start Time:,Tue Feb 16 22:16:12 CET 2021
+Experiment 5,Finish Time:,Tue Feb 16 22:16:40 CET 2021
+Experiment 5,Elapsed Running Time:,27.755
+Experiment 5,Total CPU Time:,27.008
+Experiment 5,Batches Completed:,4000
+Experiment 5,Experiment Name:,Experiment 5
+Experiment 5,Global Variable Settings:
+Experiment 5,short,FSDelay,8
+Experiment 5,double,fs2fsvcRateH,0.05
+Experiment 5,double,fs2psRateH,0.01
+Experiment 5,double,fsvc2fsRateH,0.13
+Experiment 5,short,numOfTrains,20
+Experiment 5,double,repairRateH,0.2
+Experiment 5,short,trainLength,2
+Experiment 5, Results
+Experiment 5,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 5,Mean,trains,3600.0,3600.0,1,4201925000E02 ,+/-,4,6820462098E-01
+Experiment 5,Mean,trains,7200.0,7200.0,2,7828675000E02 ,+/-,1,2141926275E00 
+
+Experiment 6
+Experiment 6,Start Time:,Tue Feb 16 22:16:40 CET 2021
+Experiment 6,Finish Time:,Tue Feb 16 22:17:07 CET 2021
+Experiment 6,Elapsed Running Time:,27.041
+Experiment 6,Total CPU Time:,26.564
+Experiment 6,Batches Completed:,4000
+Experiment 6,Experiment Name:,Experiment 6
+Experiment 6,Global Variable Settings:
+Experiment 6,short,FSDelay,8
+Experiment 6,double,fs2fsvcRateH,0.05
+Experiment 6,double,fs2psRateH,0.01
+Experiment 6,double,fsvc2fsRateH,0.16
+Experiment 6,short,numOfTrains,20
+Experiment 6,double,repairRateH,0.2
+Experiment 6,short,trainLength,2
+Experiment 6, Results
+Experiment 6,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 6,Mean,trains,3600.0,3600.0,1,4095950000E02 ,+/-,5,0823899715E-01
+Experiment 6,Mean,trains,7200.0,7200.0,2,7476225000E02 ,+/-,1,3047150944E00 
+
+Experiment 7
+Experiment 7,Start Time:,Tue Feb 16 22:17:07 CET 2021
+Experiment 7,Finish Time:,Tue Feb 16 22:17:40 CET 2021
+Experiment 7,Elapsed Running Time:,33.227
+Experiment 7,Total CPU Time:,32.827
+Experiment 7,Batches Completed:,5000
+Experiment 7,Experiment Name:,Experiment 7
+Experiment 7,Global Variable Settings:
+Experiment 7,short,FSDelay,8
+Experiment 7,double,fs2fsvcRateH,0.05
+Experiment 7,double,fs2psRateH,0.01
+Experiment 7,double,fsvc2fsRateH,0.19
+Experiment 7,short,numOfTrains,20
+Experiment 7,double,repairRateH,0.2
+Experiment 7,short,trainLength,2
+Experiment 7, Results
+Experiment 7,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 7,Mean,trains,3600.0,3600.0,1,3998220000E02 ,+/-,4,8737165817E-01
+Experiment 7,Mean,trains,7200.0,7200.0,2,7159620000E02 ,+/-,1,2287275334E00 
+
+Experiment 8
+Experiment 8,Start Time:,Tue Feb 16 22:17:40 CET 2021
+Experiment 8,Finish Time:,Tue Feb 16 22:18:13 CET 2021
+Experiment 8,Elapsed Running Time:,33.123
+Experiment 8,Total CPU Time:,32.557
+Experiment 8,Batches Completed:,5000
+Experiment 8,Experiment Name:,Experiment 8
+Experiment 8,Global Variable Settings:
+Experiment 8,short,FSDelay,8
+Experiment 8,double,fs2fsvcRateH,0.05
+Experiment 8,double,fs2psRateH,0.01
+Experiment 8,double,fsvc2fsRateH,0.22
+Experiment 8,short,numOfTrains,20
+Experiment 8,double,repairRateH,0.2
+Experiment 8,short,trainLength,2
+Experiment 8, Results
+Experiment 8,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 8,Mean,trains,3600.0,3600.0,1,3963700000E02 ,+/-,4,8991258302E-01
+Experiment 8,Mean,trains,7200.0,7200.0,2,6906420000E02 ,+/-,1,2493674042E00 
+
+Experiment 9
+Experiment 9,Start Time:,Tue Feb 16 22:18:13 CET 2021
+Experiment 9,Finish Time:,Tue Feb 16 22:18:47 CET 2021
+Experiment 9,Elapsed Running Time:,33.259
+Experiment 9,Total CPU Time:,32.436
+Experiment 9,Batches Completed:,5000
+Experiment 9,Experiment Name:,Experiment 9
+Experiment 9,Global Variable Settings:
+Experiment 9,short,FSDelay,8
+Experiment 9,double,fs2fsvcRateH,0.05
+Experiment 9,double,fs2psRateH,0.01
+Experiment 9,double,fsvc2fsRateH,0.25
+Experiment 9,short,numOfTrains,20
+Experiment 9,double,repairRateH,0.2
+Experiment 9,short,trainLength,2
+Experiment 9, Results
+Experiment 9,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 9,Mean,trains,3600.0,3600.0,1,3838100000E02 ,+/-,5,2509158057E-01
+Experiment 9,Mean,trains,7200.0,7200.0,2,6489220000E02 ,+/-,1,3084514438E00 
+
+Experiment 10
+Experiment 10,Start Time:,Tue Feb 16 22:18:47 CET 2021
+Experiment 10,Finish Time:,Tue Feb 16 22:19:27 CET 2021
+Experiment 10,Elapsed Running Time:,39.984
+Experiment 10,Total CPU Time:,39.375
+Experiment 10,Batches Completed:,6000
+Experiment 10,Experiment Name:,Experiment 10
+Experiment 10,Global Variable Settings:
+Experiment 10,short,FSDelay,8
+Experiment 10,double,fs2fsvcRateH,0.05
+Experiment 10,double,fs2psRateH,0.01
+Experiment 10,double,fsvc2fsRateH,0.28
+Experiment 10,short,numOfTrains,20
+Experiment 10,double,repairRateH,0.2
+Experiment 10,short,trainLength,2
+Experiment 10, Results
+Experiment 10,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 10,Mean,trains,3600.0,3600.0,1,3763450000E02 ,+/-,4,9792730604E-01
+Experiment 10,Mean,trains,7200.0,7200.0,2,6316483333E02 ,+/-,1,2220516810E00 
+
+Experiment 11
+Experiment 11,Start Time:,Tue Feb 16 22:19:27 CET 2021
+Experiment 11,Finish Time:,Tue Feb 16 22:20:08 CET 2021
+Experiment 11,Elapsed Running Time:,41.131
+Experiment 11,Total CPU Time:,40.137
+Experiment 11,Batches Completed:,6000
+Experiment 11,Experiment Name:,Experiment 11
+Experiment 11,Global Variable Settings:
+Experiment 11,short,FSDelay,8
+Experiment 11,double,fs2fsvcRateH,0.05
+Experiment 11,double,fs2psRateH,0.01
+Experiment 11,double,fsvc2fsRateH,0.31000000000000005
+Experiment 11,short,numOfTrains,20
+Experiment 11,double,repairRateH,0.2
+Experiment 11,short,trainLength,2
+Experiment 11, Results
+Experiment 11,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 11,Mean,trains,3600.0,3600.0,1,3670250000E02 ,+/-,5,1452555622E-01
+Experiment 11,Mean,trains,7200.0,7200.0,2,5942516667E02 ,+/-,1,2547562796E00 
+
+Experiment 12
+Experiment 12,Start Time:,Tue Feb 16 22:20:08 CET 2021
+Experiment 12,Finish Time:,Tue Feb 16 22:20:55 CET 2021
+Experiment 12,Elapsed Running Time:,47.096
+Experiment 12,Total CPU Time:,46.62
+Experiment 12,Batches Completed:,7000
+Experiment 12,Experiment Name:,Experiment 12
+Experiment 12,Global Variable Settings:
+Experiment 12,short,FSDelay,8
+Experiment 12,double,fs2fsvcRateH,0.05
+Experiment 12,double,fs2psRateH,0.01
+Experiment 12,double,fsvc2fsRateH,0.3400000000000001
+Experiment 12,short,numOfTrains,20
+Experiment 12,double,repairRateH,0.2
+Experiment 12,short,trainLength,2
+Experiment 12, Results
+Experiment 12,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 12,Mean,trains,3600.0,3600.0,1,3531071429E02 ,+/-,5,0374136754E-01
+Experiment 12,Mean,trains,7200.0,7200.0,2,5589771429E02 ,+/-,1,1954276175E00 
+
+Experiment 13
+Experiment 13,Start Time:,Tue Feb 16 22:20:55 CET 2021
+Experiment 13,Finish Time:,Tue Feb 16 22:21:40 CET 2021
+Experiment 13,Elapsed Running Time:,45.576
+Experiment 13,Total CPU Time:,45.206
+Experiment 13,Batches Completed:,7000
+Experiment 13,Experiment Name:,Experiment 13
+Experiment 13,Global Variable Settings:
+Experiment 13,short,FSDelay,8
+Experiment 13,double,fs2fsvcRateH,0.05
+Experiment 13,double,fs2psRateH,0.01
+Experiment 13,double,fsvc2fsRateH,0.3700000000000001
+Experiment 13,short,numOfTrains,20
+Experiment 13,double,repairRateH,0.2
+Experiment 13,short,trainLength,2
+Experiment 13, Results
+Experiment 13,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 13,Mean,trains,3600.0,3600.0,1,3477757143E02 ,+/-,5,0831927551E-01
+Experiment 13,Mean,trains,7200.0,7200.0,2,5384857143E02 ,+/-,1,2028693747E00 
+
+Experiment 14
+Experiment 14,Start Time:,Tue Feb 16 22:21:40 CET 2021
+Experiment 14,Finish Time:,Tue Feb 16 22:22:26 CET 2021
+Experiment 14,Elapsed Running Time:,45.505
+Experiment 14,Total CPU Time:,44.836
+Experiment 14,Batches Completed:,7000
+Experiment 14,Experiment Name:,Experiment 14
+Experiment 14,Global Variable Settings:
+Experiment 14,short,FSDelay,8
+Experiment 14,double,fs2fsvcRateH,0.05
+Experiment 14,double,fs2psRateH,0.01
+Experiment 14,double,fsvc2fsRateH,0.40000000000000013
+Experiment 14,short,numOfTrains,20
+Experiment 14,double,repairRateH,0.2
+Experiment 14,short,trainLength,2
+Experiment 14, Results
+Experiment 14,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 14,Mean,trains,3600.0,3600.0,1,3385628571E02 ,+/-,5,2352848612E-01
+Experiment 14,Mean,trains,7200.0,7200.0,2,5141642857E02 ,+/-,1,2147807036E00 
+
+Experiment 15
+Experiment 15,Start Time:,Tue Feb 16 22:22:26 CET 2021
+Experiment 15,Finish Time:,Tue Feb 16 22:23:12 CET 2021
+Experiment 15,Elapsed Running Time:,45.532
+Experiment 15,Total CPU Time:,44.803
+Experiment 15,Batches Completed:,7000
+Experiment 15,Experiment Name:,Experiment 15
+Experiment 15,Global Variable Settings:
+Experiment 15,short,FSDelay,8
+Experiment 15,double,fs2fsvcRateH,0.05
+Experiment 15,double,fs2psRateH,0.01
+Experiment 15,double,fsvc2fsRateH,0.43000000000000016
+Experiment 15,short,numOfTrains,20
+Experiment 15,double,repairRateH,0.2
+Experiment 15,short,trainLength,2
+Experiment 15, Results
+Experiment 15,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 15,Mean,trains,3600.0,3600.0,1,3291171429E02 ,+/-,5,3577767730E-01
+Experiment 15,Mean,trains,7200.0,7200.0,2,4819414286E02 ,+/-,1,2309609595E00 
+
+Experiment 16
+Experiment 16,Start Time:,Tue Feb 16 22:23:12 CET 2021
+Experiment 16,Finish Time:,Tue Feb 16 22:24:02 CET 2021
+Experiment 16,Elapsed Running Time:,50.578
+Experiment 16,Total CPU Time:,50.075
+Experiment 16,Batches Completed:,8000
+Experiment 16,Experiment Name:,Experiment 16
+Experiment 16,Global Variable Settings:
+Experiment 16,short,FSDelay,8
+Experiment 16,double,fs2fsvcRateH,0.05
+Experiment 16,double,fs2psRateH,0.01
+Experiment 16,double,fsvc2fsRateH,0.4600000000000002
+Experiment 16,short,numOfTrains,20
+Experiment 16,double,repairRateH,0.2
+Experiment 16,short,trainLength,2
+Experiment 16, Results
+Experiment 16,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 16,Mean,trains,3600.0,3600.0,1,3232200000E02 ,+/-,5,0533198424E-01
+Experiment 16,Mean,trains,7200.0,7200.0,2,4586100000E02 ,+/-,1,1497970991E00 
+
+Experiment 17
+Experiment 17,Start Time:,Tue Feb 16 22:24:02 CET 2021
+Experiment 17,Finish Time:,Tue Feb 16 22:24:54 CET 2021
+Experiment 17,Elapsed Running Time:,51.68
+Experiment 17,Total CPU Time:,50.874
+Experiment 17,Batches Completed:,8000
+Experiment 17,Experiment Name:,Experiment 17
+Experiment 17,Global Variable Settings:
+Experiment 17,short,FSDelay,8
+Experiment 17,double,fs2fsvcRateH,0.05
+Experiment 17,double,fs2psRateH,0.01
+Experiment 17,double,fsvc2fsRateH,0.4900000000000002
+Experiment 17,short,numOfTrains,20
+Experiment 17,double,repairRateH,0.2
+Experiment 17,short,trainLength,2
+Experiment 17, Results
+Experiment 17,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 17,Mean,trains,3600.0,3600.0,1,3158237500E02 ,+/-,5,1900638685E-01
+Experiment 17,Mean,trains,7200.0,7200.0,2,4395525000E02 ,+/-,1,1574459630E00 
+
+Experiment 18
+Experiment 18,Start Time:,Tue Feb 16 22:24:54 CET 2021
+Experiment 18,Finish Time:,Tue Feb 16 22:25:45 CET 2021
+Experiment 18,Elapsed Running Time:,50.922
+Experiment 18,Total CPU Time:,50.409
+Experiment 18,Batches Completed:,8000
+Experiment 18,Experiment Name:,Experiment 18
+Experiment 18,Global Variable Settings:
+Experiment 18,short,FSDelay,8
+Experiment 18,double,fs2fsvcRateH,0.05
+Experiment 18,double,fs2psRateH,0.01
+Experiment 18,double,fsvc2fsRateH,0.5200000000000002
+Experiment 18,short,numOfTrains,20
+Experiment 18,double,repairRateH,0.2
+Experiment 18,short,trainLength,2
+Experiment 18, Results
+Experiment 18,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 18,Mean,trains,3600.0,3600.0,1,3044250000E02 ,+/-,5,2735842792E-01
+Experiment 18,Mean,trains,7200.0,7200.0,2,4111250000E02 ,+/-,1,1674389845E00 
+
+Experiment 19
+Experiment 19,Start Time:,Tue Feb 16 22:25:45 CET 2021
+Experiment 19,Finish Time:,Tue Feb 16 22:26:37 CET 2021
+Experiment 19,Elapsed Running Time:,51.782
+Experiment 19,Total CPU Time:,51.315
+Experiment 19,Batches Completed:,8000
+Experiment 19,Experiment Name:,Experiment 19
+Experiment 19,Global Variable Settings:
+Experiment 19,short,FSDelay,8
+Experiment 19,double,fs2fsvcRateH,0.05
+Experiment 19,double,fs2psRateH,0.01
+Experiment 19,double,fsvc2fsRateH,0.5500000000000003
+Experiment 19,short,numOfTrains,20
+Experiment 19,double,repairRateH,0.2
+Experiment 19,short,trainLength,2
+Experiment 19, Results
+Experiment 19,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 19,Mean,trains,3600.0,3600.0,1,3020450000E02 ,+/-,5,3150285119E-01
+Experiment 19,Mean,trains,7200.0,7200.0,2,3988675000E02 ,+/-,1,1615978199E00 
+
+Experiment 20
+Experiment 20,Start Time:,Tue Feb 16 22:26:37 CET 2021
+Experiment 20,Finish Time:,Tue Feb 16 22:27:29 CET 2021
+Experiment 20,Elapsed Running Time:,52.745
+Experiment 20,Total CPU Time:,52.445
+Experiment 20,Batches Completed:,8000
+Experiment 20,Experiment Name:,Experiment 20
+Experiment 20,Global Variable Settings:
+Experiment 20,short,FSDelay,8
+Experiment 20,double,fs2fsvcRateH,0.05
+Experiment 20,double,fs2psRateH,0.01
+Experiment 20,double,fsvc2fsRateH,0.5800000000000003
+Experiment 20,short,numOfTrains,20
+Experiment 20,double,repairRateH,0.2
+Experiment 20,short,trainLength,2
+Experiment 20, Results
+Experiment 20,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 20,Mean,trains,3600.0,3600.0,1,2861175000E02 ,+/-,5,4425242891E-01
+Experiment 20,Mean,trains,7200.0,7200.0,2,3564850000E02 ,+/-,1,1621960330E00 
+
+Experiment 21
+Experiment 21,Start Time:,Tue Feb 16 22:27:29 CET 2021
+Experiment 21,Finish Time:,Tue Feb 16 22:28:24 CET 2021
+Experiment 21,Elapsed Running Time:,54.034
+Experiment 21,Total CPU Time:,53.311
+Experiment 21,Batches Completed:,8000
+Experiment 21,Experiment Name:,Experiment 21
+Experiment 21,Global Variable Settings:
+Experiment 21,short,FSDelay,8
+Experiment 21,double,fs2fsvcRateH,0.05
+Experiment 21,double,fs2psRateH,0.01
+Experiment 21,double,fsvc2fsRateH,0.6100000000000003
+Experiment 21,short,numOfTrains,20
+Experiment 21,double,repairRateH,0.2
+Experiment 21,short,trainLength,2
+Experiment 21, Results
+Experiment 21,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 21,Mean,trains,3600.0,3600.0,1,2860612500E02 ,+/-,5,4301628606E-01
+Experiment 21,Mean,trains,7200.0,7200.0,2,3550362500E02 ,+/-,1,1648022844E00 
+
+Experiment 22
+Experiment 22,Start Time:,Tue Feb 16 22:28:24 CET 2021
+Experiment 22,Finish Time:,Tue Feb 16 22:29:24 CET 2021
+Experiment 22,Elapsed Running Time:,60.801
+Experiment 22,Total CPU Time:,59.953
+Experiment 22,Batches Completed:,9000
+Experiment 22,Experiment Name:,Experiment 22
+Experiment 22,Global Variable Settings:
+Experiment 22,short,FSDelay,8
+Experiment 22,double,fs2fsvcRateH,0.05
+Experiment 22,double,fs2psRateH,0.01
+Experiment 22,double,fsvc2fsRateH,0.6400000000000003
+Experiment 22,short,numOfTrains,20
+Experiment 22,double,repairRateH,0.2
+Experiment 22,short,trainLength,2
+Experiment 22, Results
+Experiment 22,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 22,Mean,trains,3600.0,3600.0,1,2757800000E02 ,+/-,5,1942658618E-01
+Experiment 22,Mean,trains,7200.0,7200.0,2,3280288889E02 ,+/-,1,0975086128E00 
+
+Experiment 23
+Experiment 23,Start Time:,Tue Feb 16 22:29:24 CET 2021
+Experiment 23,Finish Time:,Tue Feb 16 22:30:19 CET 2021
+Experiment 23,Elapsed Running Time:,54.753
+Experiment 23,Total CPU Time:,53.752
+Experiment 23,Batches Completed:,8000
+Experiment 23,Experiment Name:,Experiment 23
+Experiment 23,Global Variable Settings:
+Experiment 23,short,FSDelay,8
+Experiment 23,double,fs2fsvcRateH,0.05
+Experiment 23,double,fs2psRateH,0.01
+Experiment 23,double,fsvc2fsRateH,0.6700000000000004
+Experiment 23,short,numOfTrains,20
+Experiment 23,double,repairRateH,0.2
+Experiment 23,short,trainLength,2
+Experiment 23, Results
+Experiment 23,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 23,Mean,trains,3600.0,3600.0,1,2713450000E02 ,+/-,5,5254594600E-01
+Experiment 23,Mean,trains,7200.0,7200.0,2,3152062500E02 ,+/-,1,1544347989E00 
+
+Experiment 24
+Experiment 24,Start Time:,Tue Feb 16 22:30:19 CET 2021
+Experiment 24,Finish Time:,Tue Feb 16 22:31:35 CET 2021
+Experiment 24,Elapsed Running Time:,75.645
+Experiment 24,Total CPU Time:,74.507
+Experiment 24,Batches Completed:,9000
+Experiment 24,Experiment Name:,Experiment 24
+Experiment 24,Global Variable Settings:
+Experiment 24,short,FSDelay,8
+Experiment 24,double,fs2fsvcRateH,0.05
+Experiment 24,double,fs2psRateH,0.01
+Experiment 24,double,fsvc2fsRateH,0.7000000000000004
+Experiment 24,short,numOfTrains,20
+Experiment 24,double,repairRateH,0.2
+Experiment 24,short,trainLength,2
+Experiment 24, Results
+Experiment 24,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 24,Mean,trains,3600.0,3600.0,1,2586677778E02 ,+/-,5,3127157878E-01
+Experiment 24,Mean,trains,7200.0,7200.0,2,2867011111E02 ,+/-,1,0934051289E00 
+
+Experiment 25
+Experiment 25,Start Time:,Tue Feb 16 22:31:35 CET 2021
+Experiment 25,Finish Time:,Tue Feb 16 22:32:51 CET 2021
+Experiment 25,Elapsed Running Time:,76.472
+Experiment 25,Total CPU Time:,76.172
+Experiment 25,Batches Completed:,9000
+Experiment 25,Experiment Name:,Experiment 25
+Experiment 25,Global Variable Settings:
+Experiment 25,short,FSDelay,8
+Experiment 25,double,fs2fsvcRateH,0.05
+Experiment 25,double,fs2psRateH,0.01
+Experiment 25,double,fsvc2fsRateH,0.7300000000000004
+Experiment 25,short,numOfTrains,20
+Experiment 25,double,repairRateH,0.2
+Experiment 25,short,trainLength,2
+Experiment 25, Results
+Experiment 25,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 25,Mean,trains,3600.0,3600.0,1,2573233333E02 ,+/-,5,3076587062E-01
+Experiment 25,Mean,trains,7200.0,7200.0,2,2784622222E02 ,+/-,1,0879326875E00 
+
+Experiment 26
+Experiment 26,Start Time:,Tue Feb 16 22:32:51 CET 2021
+Experiment 26,Finish Time:,Tue Feb 16 22:34:09 CET 2021
+Experiment 26,Elapsed Running Time:,77.293
+Experiment 26,Total CPU Time:,76.734
+Experiment 26,Batches Completed:,9000
+Experiment 26,Experiment Name:,Experiment 26
+Experiment 26,Global Variable Settings:
+Experiment 26,short,FSDelay,8
+Experiment 26,double,fs2fsvcRateH,0.05
+Experiment 26,double,fs2psRateH,0.01
+Experiment 26,double,fsvc2fsRateH,0.7600000000000005
+Experiment 26,short,numOfTrains,20
+Experiment 26,double,repairRateH,0.2
+Experiment 26,short,trainLength,2
+Experiment 26, Results
+Experiment 26,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 26,Mean,trains,3600.0,3600.0,1,2511533333E02 ,+/-,5,3208069699E-01
+Experiment 26,Mean,trains,7200.0,7200.0,2,2617188889E02 ,+/-,1,0737569541E00 
+
+Experiment 27
+Experiment 27,Start Time:,Tue Feb 16 22:34:09 CET 2021
+Experiment 27,Finish Time:,Tue Feb 16 22:35:25 CET 2021
+Experiment 27,Elapsed Running Time:,76.515
+Experiment 27,Total CPU Time:,75.986
+Experiment 27,Batches Completed:,9000
+Experiment 27,Experiment Name:,Experiment 27
+Experiment 27,Global Variable Settings:
+Experiment 27,short,FSDelay,8
+Experiment 27,double,fs2fsvcRateH,0.05
+Experiment 27,double,fs2psRateH,0.01
+Experiment 27,double,fsvc2fsRateH,0.7900000000000005
+Experiment 27,short,numOfTrains,20
+Experiment 27,double,repairRateH,0.2
+Experiment 27,short,trainLength,2
+Experiment 27, Results
+Experiment 27,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 27,Mean,trains,3600.0,3600.0,1,2414288889E02 ,+/-,5,3950277235E-01
+Experiment 27,Mean,trains,7200.0,7200.0,2,2381922222E02 ,+/-,1,0698004360E00 
+
+Experiment 28
+Experiment 28,Start Time:,Tue Feb 16 22:35:25 CET 2021
+Experiment 28,Finish Time:,Tue Feb 16 22:36:26 CET 2021
+Experiment 28,Elapsed Running Time:,60.807
+Experiment 28,Total CPU Time:,59.768
+Experiment 28,Batches Completed:,9000
+Experiment 28,Experiment Name:,Experiment 28
+Experiment 28,Global Variable Settings:
+Experiment 28,short,FSDelay,8
+Experiment 28,double,fs2fsvcRateH,0.05
+Experiment 28,double,fs2psRateH,0.01
+Experiment 28,double,fsvc2fsRateH,0.8200000000000005
+Experiment 28,short,numOfTrains,20
+Experiment 28,double,repairRateH,0.2
+Experiment 28,short,trainLength,2
+Experiment 28, Results
+Experiment 28,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 28,Mean,trains,3600.0,3600.0,1,2413677778E02 ,+/-,5,3533933105E-01
+Experiment 28,Mean,trains,7200.0,7200.0,2,2350311111E02 ,+/-,1,0681988930E00 
+
+Experiment 29
+Experiment 29,Start Time:,Tue Feb 16 22:36:26 CET 2021
+Experiment 29,Finish Time:,Tue Feb 16 22:37:27 CET 2021
+Experiment 29,Elapsed Running Time:,60.772
+Experiment 29,Total CPU Time:,59.699
+Experiment 29,Batches Completed:,9000
+Experiment 29,Experiment Name:,Experiment 29
+Experiment 29,Global Variable Settings:
+Experiment 29,short,FSDelay,8
+Experiment 29,double,fs2fsvcRateH,0.05
+Experiment 29,double,fs2psRateH,0.01
+Experiment 29,double,fsvc2fsRateH,0.8500000000000005
+Experiment 29,short,numOfTrains,20
+Experiment 29,double,repairRateH,0.2
+Experiment 29,short,trainLength,2
+Experiment 29, Results
+Experiment 29,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 29,Mean,trains,3600.0,3600.0,1,2307811111E02 ,+/-,5,4075678836E-01
+Experiment 29,Mean,trains,7200.0,7200.0,2,2095744444E02 ,+/-,1,0559787120E00 
+
+Experiment 30
+Experiment 30,Start Time:,Tue Feb 16 22:37:27 CET 2021
+Experiment 30,Finish Time:,Tue Feb 16 22:38:30 CET 2021
+Experiment 30,Elapsed Running Time:,63.49
+Experiment 30,Total CPU Time:,63.149
+Experiment 30,Batches Completed:,9000
+Experiment 30,Experiment Name:,Experiment 30
+Experiment 30,Global Variable Settings:
+Experiment 30,short,FSDelay,8
+Experiment 30,double,fs2fsvcRateH,0.05
+Experiment 30,double,fs2psRateH,0.01
+Experiment 30,double,fsvc2fsRateH,0.8800000000000006
+Experiment 30,short,numOfTrains,20
+Experiment 30,double,repairRateH,0.2
+Experiment 30,short,trainLength,2
+Experiment 30, Results
+Experiment 30,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 30,Mean,trains,3600.0,3600.0,1,2239966667E02 ,+/-,5,4663130779E-01
+Experiment 30,Mean,trains,7200.0,7200.0,2,1968755556E02 ,+/-,1,0553109906E00 
+
+Experiment 31
+Experiment 31,Start Time:,Tue Feb 16 22:38:30 CET 2021
+Experiment 31,Finish Time:,Tue Feb 16 22:39:30 CET 2021
+Experiment 31,Elapsed Running Time:,59.139
+Experiment 31,Total CPU Time:,58.513
+Experiment 31,Batches Completed:,9000
+Experiment 31,Experiment Name:,Experiment 31
+Experiment 31,Global Variable Settings:
+Experiment 31,short,FSDelay,8
+Experiment 31,double,fs2fsvcRateH,0.05
+Experiment 31,double,fs2psRateH,0.01
+Experiment 31,double,fsvc2fsRateH,0.9100000000000006
+Experiment 31,short,numOfTrains,20
+Experiment 31,double,repairRateH,0.2
+Experiment 31,short,trainLength,2
+Experiment 31, Results
+Experiment 31,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 31,Mean,trains,3600.0,3600.0,1,2171744444E02 ,+/-,5,4672349824E-01
+Experiment 31,Mean,trains,7200.0,7200.0,2,1784633333E02 ,+/-,1,0442086087E00 
+
+Experiment 32
+Experiment 32,Start Time:,Tue Feb 16 22:39:30 CET 2021
+Experiment 32,Finish Time:,Tue Feb 16 22:40:30 CET 2021
+Experiment 32,Elapsed Running Time:,60.013
+Experiment 32,Total CPU Time:,59.245
+Experiment 32,Batches Completed:,9000
+Experiment 32,Experiment Name:,Experiment 32
+Experiment 32,Global Variable Settings:
+Experiment 32,short,FSDelay,8
+Experiment 32,double,fs2fsvcRateH,0.05
+Experiment 32,double,fs2psRateH,0.01
+Experiment 32,double,fsvc2fsRateH,0.9400000000000006
+Experiment 32,short,numOfTrains,20
+Experiment 32,double,repairRateH,0.2
+Experiment 32,short,trainLength,2
+Experiment 32, Results
+Experiment 32,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 32,Mean,trains,3600.0,3600.0,1,2105755556E02 ,+/-,5,4586782033E-01
+Experiment 32,Mean,trains,7200.0,7200.0,2,1642233333E02 ,+/-,1,0367114262E00 
+
+Experiment 33
+Experiment 33,Start Time:,Tue Feb 16 22:40:30 CET 2021
+Experiment 33,Finish Time:,Tue Feb 16 22:41:30 CET 2021
+Experiment 33,Elapsed Running Time:,59.978
+Experiment 33,Total CPU Time:,59.063
+Experiment 33,Batches Completed:,9000
+Experiment 33,Experiment Name:,Experiment 33
+Experiment 33,Global Variable Settings:
+Experiment 33,short,FSDelay,8
+Experiment 33,double,fs2fsvcRateH,0.05
+Experiment 33,double,fs2psRateH,0.01
+Experiment 33,double,fsvc2fsRateH,0.9700000000000006
+Experiment 33,short,numOfTrains,20
+Experiment 33,double,repairRateH,0.2
+Experiment 33,short,trainLength,2
+Experiment 33, Results
+Experiment 33,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 33,Mean,trains,3600.0,3600.0,1,2044155556E02 ,+/-,5,4796016543E-01
+Experiment 33,Mean,trains,7200.0,7200.0,2,1510333333E02 ,+/-,1,0267123923E00 
+
+Experiment 34
+Experiment 34,Start Time:,Tue Feb 16 22:41:30 CET 2021
+Experiment 34,Finish Time:,Tue Feb 16 22:42:26 CET 2021
+Experiment 34,Elapsed Running Time:,56.023
+Experiment 34,Total CPU Time:,55.78
+Experiment 34,Batches Completed:,9000
+Experiment 34,Experiment Name:,Experiment 34
+Experiment 34,Global Variable Settings:
+Experiment 34,short,FSDelay,8
+Experiment 34,double,fs2fsvcRateH,0.05
+Experiment 34,double,fs2psRateH,0.01
+Experiment 34,double,fsvc2fsRateH,1.0000000000000007
+Experiment 34,short,numOfTrains,20
+Experiment 34,double,repairRateH,0.2
+Experiment 34,short,trainLength,2
+Experiment 34, Results
+Experiment 34,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 34,Mean,trains,3600.0,3600.0,1,1951433333E02 ,+/-,5,5039161146E-01
+Experiment 34,Mean,trains,7200.0,7200.0,2,1297566667E02 ,+/-,1,0159239651E00 
+
+<END_MOBIUS_RESULTS>
