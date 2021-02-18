@@ -1,0 +1,1079 @@
+_______________________________Simulator Results______________________________
+Date:                        Thu Feb 18 22:13:44 CET 2021
+
+____________________________Simulator Configuration___________________________
+Simulation Type:             Terminating
+Project Name:                VCtest
+Study Name:                  studyYline
+Random Number Generator:     Lagged Fibonacci
+Random Number Seed:          31415
+Maximum Batches:             100000
+Minimum Batches:             1000
+Data Reporting Frequency:    1000
+Display Update Frequency:    1000
+BuildType:                   Optimize
+Execution Architecture:      64-bit
+Runname:                     Results
+Output File:                 Results_output.txt
+Results File:                Results_results
+Jackknife Variance:          On
+Processors Per Experiment:   1
+Maximize Processor Usage:    false
+Processors Selected for Simulation: 
+        LAPTOP-RDGR22SH      amd64
+
+_________________________________Experiment 1_________________________________
+Start Time:                  Thu Feb 18 22:11:23 CET 2021
+Finish Time:                 Thu Feb 18 22:11:27 CET 2021
+Elapsed Running Time:        4.086
+Total CPU Time:              3.709
+Batches Completed:           1000
+Experiment Name:             Experiment 1
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.01                   
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5609600000E02   +/-   4,6485909283E-01
+trains                7200.0            3,1339300000E02   +/-   1,0964925988E00 
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 2_________________________________
+Start Time:                  Thu Feb 18 22:11:27 CET 2021
+Finish Time:                 Thu Feb 18 22:11:31 CET 2021
+Elapsed Running Time:        4.19
+Total CPU Time:              3.624
+Batches Completed:           1000
+Experiment Name:             Experiment 2
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.04                   
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5650700000E02   +/-   4,1643932364E-01
+trains                7200.0            3,1434900000E02   +/-   1,0242538574E00 
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 3_________________________________
+Start Time:                  Thu Feb 18 22:11:31 CET 2021
+Finish Time:                 Thu Feb 18 22:11:36 CET 2021
+Elapsed Running Time:        4.369
+Total CPU Time:              3.523
+Batches Completed:           1000
+Experiment Name:             Experiment 3
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.07                   
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5663000000E02   +/-   3,8943665399E-01
+trains                7200.0            3,1475900000E02   +/-   9,4268918724E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 4_________________________________
+Start Time:                  Thu Feb 18 22:11:36 CET 2021
+Finish Time:                 Thu Feb 18 22:11:40 CET 2021
+Elapsed Running Time:        4.184
+Total CPU Time:              3.358
+Batches Completed:           1000
+Experiment Name:             Experiment 4
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.1                    
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5638500000E02   +/-   4,2720934103E-01
+trains                7200.0            3,1406800000E02   +/-   9,9304919473E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 5_________________________________
+Start Time:                  Thu Feb 18 22:11:40 CET 2021
+Finish Time:                 Thu Feb 18 22:11:44 CET 2021
+Elapsed Running Time:        4.216
+Total CPU Time:              3.584
+Batches Completed:           1000
+Experiment Name:             Experiment 5
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.13                   
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5659100000E02   +/-   4,2230674669E-01
+trains                7200.0            3,1487400000E02   +/-   9,6339876975E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 6_________________________________
+Start Time:                  Thu Feb 18 22:11:44 CET 2021
+Finish Time:                 Thu Feb 18 22:11:48 CET 2021
+Elapsed Running Time:        4.176
+Total CPU Time:              3.546
+Batches Completed:           1000
+Experiment Name:             Experiment 6
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.16                   
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5658300000E02   +/-   3,9112158226E-01
+trains                7200.0            3,1488500000E02   +/-   9,0116351775E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 7_________________________________
+Start Time:                  Thu Feb 18 22:11:48 CET 2021
+Finish Time:                 Thu Feb 18 22:11:53 CET 2021
+Elapsed Running Time:        4.181
+Total CPU Time:              3.416
+Batches Completed:           1000
+Experiment Name:             Experiment 7
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.19                   
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5635100000E02   +/-   4,3895229417E-01
+trains                7200.0            3,1413600000E02   +/-   1,0057547003E00 
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 8_________________________________
+Start Time:                  Thu Feb 18 22:11:53 CET 2021
+Finish Time:                 Thu Feb 18 22:11:57 CET 2021
+Elapsed Running Time:        4.195
+Total CPU Time:              3.378
+Batches Completed:           1000
+Experiment Name:             Experiment 8
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.22                   
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5628300000E02   +/-   4,3735107140E-01
+trains                7200.0            3,1412300000E02   +/-   1,0122761692E00 
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 9_________________________________
+Start Time:                  Thu Feb 18 22:11:57 CET 2021
+Finish Time:                 Thu Feb 18 22:12:01 CET 2021
+Elapsed Running Time:        4.175
+Total CPU Time:              3.438
+Batches Completed:           1000
+Experiment Name:             Experiment 9
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.25                   
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5638900000E02   +/-   4,0629551769E-01
+trains                7200.0            3,1473600000E02   +/-   8,9855360754E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 10________________________________
+Start Time:                  Thu Feb 18 22:12:01 CET 2021
+Finish Time:                 Thu Feb 18 22:12:05 CET 2021
+Elapsed Running Time:        4.195
+Total CPU Time:              3.414
+Batches Completed:           1000
+Experiment Name:             Experiment 10
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.28                   
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5643700000E02   +/-   4,3295519733E-01
+trains                7200.0            3,1481300000E02   +/-   9,5491513068E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 11________________________________
+Start Time:                  Thu Feb 18 22:12:05 CET 2021
+Finish Time:                 Thu Feb 18 22:12:09 CET 2021
+Elapsed Running Time:        3.609
+Total CPU Time:              3.253
+Batches Completed:           1000
+Experiment Name:             Experiment 11
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.31000000000000005    
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5627200000E02   +/-   4,2748487691E-01
+trains                7200.0            3,1430700000E02   +/-   9,6581984418E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 12________________________________
+Start Time:                  Thu Feb 18 22:12:09 CET 2021
+Finish Time:                 Thu Feb 18 22:12:13 CET 2021
+Elapsed Running Time:        4.199
+Total CPU Time:              3.678
+Batches Completed:           1000
+Experiment Name:             Experiment 12
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.3400000000000001     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5642200000E02   +/-   4,3416094001E-01
+trains                7200.0            3,1435400000E02   +/-   9,5047642679E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 13________________________________
+Start Time:                  Thu Feb 18 22:12:13 CET 2021
+Finish Time:                 Thu Feb 18 22:12:18 CET 2021
+Elapsed Running Time:        4.86
+Total CPU Time:              4.145
+Batches Completed:           1000
+Experiment Name:             Experiment 13
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.3700000000000001     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5638000000E02   +/-   4,0466394783E-01
+trains                7200.0            3,1485700000E02   +/-   8,8821940219E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 14________________________________
+Start Time:                  Thu Feb 18 22:12:18 CET 2021
+Finish Time:                 Thu Feb 18 22:12:22 CET 2021
+Elapsed Running Time:        4.189
+Total CPU Time:              3.799
+Batches Completed:           1000
+Experiment Name:             Experiment 14
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.40000000000000013    
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5653900000E02   +/-   4,0529481815E-01
+trains                7200.0            3,1499900000E02   +/-   8,8914637706E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 15________________________________
+Start Time:                  Thu Feb 18 22:12:22 CET 2021
+Finish Time:                 Thu Feb 18 22:12:26 CET 2021
+Elapsed Running Time:        4.162
+Total CPU Time:              3.508
+Batches Completed:           1000
+Experiment Name:             Experiment 15
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.43000000000000016    
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5647800000E02   +/-   4,1161689121E-01
+trains                7200.0            3,1493000000E02   +/-   8,7746624321E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 16________________________________
+Start Time:                  Thu Feb 18 22:12:26 CET 2021
+Finish Time:                 Thu Feb 18 22:12:30 CET 2021
+Elapsed Running Time:        3.806
+Total CPU Time:              3.435
+Batches Completed:           1000
+Experiment Name:             Experiment 16
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.4600000000000002     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5677200000E02   +/-   3,8017755594E-01
+trains                7200.0            3,1533600000E02   +/-   8,1755519693E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 17________________________________
+Start Time:                  Thu Feb 18 22:12:30 CET 2021
+Finish Time:                 Thu Feb 18 22:12:34 CET 2021
+Elapsed Running Time:        3.776
+Total CPU Time:              3.496
+Batches Completed:           1000
+Experiment Name:             Experiment 17
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.4900000000000002     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5641100000E02   +/-   4,1128306316E-01
+trains                7200.0            3,1466600000E02   +/-   8,8006413093E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 18________________________________
+Start Time:                  Thu Feb 18 22:12:34 CET 2021
+Finish Time:                 Thu Feb 18 22:12:38 CET 2021
+Elapsed Running Time:        4.424
+Total CPU Time:              3.501
+Batches Completed:           1000
+Experiment Name:             Experiment 18
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.5200000000000002     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5667800000E02   +/-   3,8965983002E-01
+trains                7200.0            3,1518400000E02   +/-   8,7361228266E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 19________________________________
+Start Time:                  Thu Feb 18 22:12:38 CET 2021
+Finish Time:                 Thu Feb 18 22:12:43 CET 2021
+Elapsed Running Time:        4.159
+Total CPU Time:              3.463
+Batches Completed:           1000
+Experiment Name:             Experiment 19
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.5500000000000003     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5647800000E02   +/-   4,1090626355E-01
+trains                7200.0            3,1476500000E02   +/-   8,9523823239E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 20________________________________
+Start Time:                  Thu Feb 18 22:12:43 CET 2021
+Finish Time:                 Thu Feb 18 22:12:47 CET 2021
+Elapsed Running Time:        4.202
+Total CPU Time:              3.347
+Batches Completed:           1000
+Experiment Name:             Experiment 20
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.5800000000000003     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5670400000E02   +/-   3,9539121866E-01
+trains                7200.0            3,1530000000E02   +/-   8,4079207234E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 21________________________________
+Start Time:                  Thu Feb 18 22:12:47 CET 2021
+Finish Time:                 Thu Feb 18 22:12:51 CET 2021
+Elapsed Running Time:        4.204
+Total CPU Time:              3.349
+Batches Completed:           1000
+Experiment Name:             Experiment 21
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.6100000000000003     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5619500000E02   +/-   4,4943254975E-01
+trains                7200.0            3,1457600000E02   +/-   9,4989272063E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 22________________________________
+Start Time:                  Thu Feb 18 22:12:51 CET 2021
+Finish Time:                 Thu Feb 18 22:12:55 CET 2021
+Elapsed Running Time:        4.199
+Total CPU Time:              3.54
+Batches Completed:           1000
+Experiment Name:             Experiment 22
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.6400000000000003     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5656700000E02   +/-   3,8129610669E-01
+trains                7200.0            3,1548800000E02   +/-   8,3356642434E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 23________________________________
+Start Time:                  Thu Feb 18 22:12:55 CET 2021
+Finish Time:                 Thu Feb 18 22:12:59 CET 2021
+Elapsed Running Time:        4.173
+Total CPU Time:              3.428
+Batches Completed:           1000
+Experiment Name:             Experiment 23
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.6700000000000004     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5632500000E02   +/-   4,3402566523E-01
+trains                7200.0            3,1521600000E02   +/-   8,5742936702E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 24________________________________
+Start Time:                  Thu Feb 18 22:12:59 CET 2021
+Finish Time:                 Thu Feb 18 22:13:03 CET 2021
+Elapsed Running Time:        3.768
+Total CPU Time:              3.393
+Batches Completed:           1000
+Experiment Name:             Experiment 24
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.7000000000000004     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5622600000E02   +/-   3,7899687528E-01
+trains                7200.0            3,1545800000E02   +/-   7,6797933389E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 25________________________________
+Start Time:                  Thu Feb 18 22:13:03 CET 2021
+Finish Time:                 Thu Feb 18 22:13:07 CET 2021
+Elapsed Running Time:        4.204
+Total CPU Time:              3.345
+Batches Completed:           1000
+Experiment Name:             Experiment 25
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.7300000000000004     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5689000000E02   +/-   3,5226714292E-01
+trains                7200.0            3,1629000000E02   +/-   7,3111163529E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 26________________________________
+Start Time:                  Thu Feb 18 22:13:07 CET 2021
+Finish Time:                 Thu Feb 18 22:13:12 CET 2021
+Elapsed Running Time:        4.186
+Total CPU Time:              3.347
+Batches Completed:           1000
+Experiment Name:             Experiment 26
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.7600000000000005     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5664300000E02   +/-   3,6944351941E-01
+trains                7200.0            3,1580500000E02   +/-   7,3392300941E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 27________________________________
+Start Time:                  Thu Feb 18 22:13:12 CET 2021
+Finish Time:                 Thu Feb 18 22:13:16 CET 2021
+Elapsed Running Time:        4.187
+Total CPU Time:              3.39
+Batches Completed:           1000
+Experiment Name:             Experiment 27
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.7900000000000005     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5666900000E02   +/-   3,6977586705E-01
+trains                7200.0            3,1600300000E02   +/-   7,0142554275E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 28________________________________
+Start Time:                  Thu Feb 18 22:13:16 CET 2021
+Finish Time:                 Thu Feb 18 22:13:19 CET 2021
+Elapsed Running Time:        3.58
+Total CPU Time:              3.319
+Batches Completed:           1000
+Experiment Name:             Experiment 28
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.8200000000000005     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5678600000E02   +/-   3,6042700025E-01
+trains                7200.0            3,1611000000E02   +/-   7,3677023924E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 29________________________________
+Start Time:                  Thu Feb 18 22:13:20 CET 2021
+Finish Time:                 Thu Feb 18 22:13:24 CET 2021
+Elapsed Running Time:        4.182
+Total CPU Time:              3.407
+Batches Completed:           1000
+Experiment Name:             Experiment 29
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.8500000000000005     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5684200000E02   +/-   3,3804621095E-01
+trains                7200.0            3,1621400000E02   +/-   6,8991472721E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 30________________________________
+Start Time:                  Thu Feb 18 22:13:24 CET 2021
+Finish Time:                 Thu Feb 18 22:13:28 CET 2021
+Elapsed Running Time:        3.768
+Total CPU Time:              3.359
+Batches Completed:           1000
+Experiment Name:             Experiment 30
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.8800000000000006     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5639300000E02   +/-   3,9673190056E-01
+trains                7200.0            3,1570000000E02   +/-   7,5242398969E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 31________________________________
+Start Time:                  Thu Feb 18 22:13:28 CET 2021
+Finish Time:                 Thu Feb 18 22:13:32 CET 2021
+Elapsed Running Time:        4.202
+Total CPU Time:              3.389
+Batches Completed:           1000
+Experiment Name:             Experiment 31
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.9100000000000006     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5640200000E02   +/-   3,6730795091E-01
+trains                7200.0            3,1559900000E02   +/-   7,7076321994E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 32________________________________
+Start Time:                  Thu Feb 18 22:13:32 CET 2021
+Finish Time:                 Thu Feb 18 22:13:36 CET 2021
+Elapsed Running Time:        4.212
+Total CPU Time:              3.443
+Batches Completed:           1000
+Experiment Name:             Experiment 32
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.9400000000000006     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5688700000E02   +/-   3,4805187935E-01
+trains                7200.0            3,1654600000E02   +/-   6,6471139272E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 33________________________________
+Start Time:                  Thu Feb 18 22:13:36 CET 2021
+Finish Time:                 Thu Feb 18 22:13:40 CET 2021
+Elapsed Running Time:        3.758
+Total CPU Time:              3.358
+Batches Completed:           1000
+Experiment Name:             Experiment 33
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             0.9700000000000006     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5646500000E02   +/-   3,6010983259E-01
+trains                7200.0            3,1610900000E02   +/-   7,1798978940E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+_________________________________Experiment 34________________________________
+Start Time:                  Thu Feb 18 22:13:40 CET 2021
+Finish Time:                 Thu Feb 18 22:13:44 CET 2021
+Elapsed Running Time:        4.011
+Total CPU Time:              3.328
+Batches Completed:           1000
+Experiment Name:             Experiment 34
+Global Variable Settings:    
+        short                FSDelay                  8                      
+        double               fs2fsvcRateH             1.0000000000000007     
+        double               fs2psRateH               0.01                   
+        double               fsvc2fsRateH             0.05                   
+        short                numOfTrains              20                     
+        double               repairRateH              0.2                    
+        short                trainLength              2                      
+
+
+_________________________________Mean Results_________________________________
+Name                  Time               Mean                     Confidence Interval
+trains                3600.0            1,5681400000E02   +/-   3,6949479456E-01
+trains                7200.0            3,1661900000E02   +/-   6,7841952755E-01
+
+
+_______________________________Variance Results_______________________________
+
+
+_______________________________Interval Results_______________________________
+
+
+_____________________________Distribution Results_____________________________
+
+<END_MOBIUS_RESULTS>
