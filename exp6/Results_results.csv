@@ -1,0 +1,85 @@
+Simulator Results
+Date:, Thu Feb 18 22:28:09 CET 2021
+
+Simulator Configuration
+Simulation Type:,Terminating
+Project Name:,VCtest
+Study Name:,studyYline
+Random Number Generator:,Lagged Fibonacci
+Random Number Seed:,31415
+Maximum Batches:,100000
+Minimum Batches:,1000
+Data Reporting Frequency:,1000
+Display Update Frequency:,1000
+BuildType:,Optimize
+Execution Architecture:,64-bit
+Runname:,Results
+Output File:,Results_output.txt
+Results File:,Results_results
+Jackknife Variance:,On
+Processors Per Experiment:,1
+Maximize Processor Usage:,false
+Processors Selected for Simulation:
+LAPTOP-RDGR22SH,amd64
+
+Experiment 1
+Experiment 1,Start Time:,Thu Feb 18 22:27:57 CET 2021
+Experiment 1,Finish Time:,Thu Feb 18 22:28:02 CET 2021
+Experiment 1,Elapsed Running Time:,4.313
+Experiment 1,Total CPU Time:,3.486
+Experiment 1,Batches Completed:,1000
+Experiment 1,Experiment Name:,Experiment 1
+Experiment 1,Global Variable Settings:
+Experiment 1,short,FSDelay,8
+Experiment 1,double,fs2fsvcRateH,0.05
+Experiment 1,double,fs2psRateH,0.01
+Experiment 1,double,fsvc2fsRateH,0.05
+Experiment 1,short,numOfTrains,20
+Experiment 1,double,repairRateH,0.2
+Experiment 1,short,trainLength,1
+Experiment 1, Results
+Experiment 1,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 1,Mean,trains,3600.0,3600.0,1,6083400000E02 ,+/-,4,6092827788E-01
+Experiment 1,Mean,trains,7200.0,7200.0,3,2229000000E02 ,+/-,1,1541032212E00 
+
+Experiment 2
+Experiment 2,Start Time:,Thu Feb 18 22:28:02 CET 2021
+Experiment 2,Finish Time:,Thu Feb 18 22:28:05 CET 2021
+Experiment 2,Elapsed Running Time:,3.793
+Experiment 2,Total CPU Time:,3.349
+Experiment 2,Batches Completed:,1000
+Experiment 2,Experiment Name:,Experiment 2
+Experiment 2,Global Variable Settings:
+Experiment 2,short,FSDelay,8
+Experiment 2,double,fs2fsvcRateH,0.05
+Experiment 2,double,fs2psRateH,0.01
+Experiment 2,double,fsvc2fsRateH,0.05
+Experiment 2,short,numOfTrains,20
+Experiment 2,double,repairRateH,0.2
+Experiment 2,short,trainLength,2
+Experiment 2, Results
+Experiment 2,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 2,Mean,trains,3600.0,3600.0,1,5601200000E02 ,+/-,4,5547067649E-01
+Experiment 2,Mean,trains,7200.0,7200.0,3,1331600000E02 ,+/-,1,0868471810E00 
+
+Experiment 3
+Experiment 3,Start Time:,Thu Feb 18 22:28:05 CET 2021
+Experiment 3,Finish Time:,Thu Feb 18 22:28:09 CET 2021
+Experiment 3,Elapsed Running Time:,3.765
+Experiment 3,Total CPU Time:,3.262
+Experiment 3,Batches Completed:,1000
+Experiment 3,Experiment Name:,Experiment 3
+Experiment 3,Global Variable Settings:
+Experiment 3,short,FSDelay,8
+Experiment 3,double,fs2fsvcRateH,0.05
+Experiment 3,double,fs2psRateH,0.01
+Experiment 3,double,fsvc2fsRateH,0.05
+Experiment 3,short,numOfTrains,20
+Experiment 3,double,repairRateH,0.2
+Experiment 3,short,trainLength,3
+Experiment 3, Results
+Experiment 3,Result Type,Name,Start Time,End Time,Mean,,Confidence Interval,Failed To Converge
+Experiment 3,Mean,trains,3600.0,3600.0,1,5367500000E02 ,+/-,4,6263095357E-01
+Experiment 3,Mean,trains,7200.0,7200.0,3,0922300000E02 ,+/-,1,0401727828E00 
+
+<END_MOBIUS_RESULTS>
